@@ -1,0 +1,120 @@
+{
+  "colonnes": [
+    {
+      "couleur": "red",
+      "title ": "hello world",
+      "tache": [
+        {
+          "text": "hello world",
+          "date": "29/04/100",
+          "heure de debut": "12h:50:00",
+          "heure de fin": "15h:59:00",
+          "id_colone": "01"
+        },
+        {
+          "text": "hello world",
+          "date": "29/04/100",
+          "heure de debut": "12h:50:00",
+          "heure de fin": "15h:59:00",
+          "id_colone": "01"
+        }
+      ]
+    },
+    {
+      "couleur": "red",
+      "title ": "hello world",
+      "tache": [
+        {
+          "text": "hello world",
+          "date": "29/04/100",
+          "heure de debut": "12h:50:00",
+          "heure de fin": "15h:59:00",
+          "id_colone": "01"
+        },
+        {
+          "text": "hello world",
+          "date": "29/04/100",
+          "heure de debut": "12h:50:00",
+          "heure de fin": "15h:59:00",
+          "id_colone": "01"
+        }
+      ]
+    }
+  ],
+  "corbeille": [
+    {
+      "text": "hello world",
+      "date": "29/04/100",
+      "heure de debut": "12h:50:00",
+      "heure de fin": "15h:59:00",
+      "id_colone": "01"
+    },
+    {
+      "text": "hello world",
+      "date": "29/04/100",
+      "heure de debut": "12h:50:00",
+      "heure de fin": "15h:59:00",
+      "id_colone": "01"
+    }
+  ],
+  "etat":{
+    "colonnes": [
+        {
+          "couleur": "red",
+          "title ": "hello world",
+          "tache": [
+            {
+              "text": "hello world",
+              "date": "29/04/100",
+              "heure de debut": "12h:50:00",
+              "heure de fin": "15h:59:00",
+              "id_colone": "01"
+            },
+            {
+              "text": "hello world",
+              "date": "29/04/100",
+              "heure de debut": "12h:50:00",
+              "heure de fin": "15h:59:00",
+              "id_colone": "01"
+            }
+          ]
+        },
+        {
+          "couleur": "red",
+          "title ": "hello world",
+          "tache": [
+            {
+              "text": "hello world",
+              "date": "29/04/100",
+              "heure de debut": "12h:50:00",
+              "heure de fin": "15h:59:00",
+              "id_colone": "01"
+            },
+            {
+              "text": "hello world",
+              "date": "29/04/100",
+              "heure de debut": "12h:50:00",
+              "heure de fin": "15h:59:00",
+              "id_colone": "01"
+            }
+          ]
+        }
+      ],
+      "corbeille": [
+        {
+          "text": "hello world",
+          "date": "29/04/100",
+          "heure de debut": "12h:50:00",
+          "heure de fin": "15h:59:00",
+          "id_colone": "01"
+        },
+        {
+          "text": "hello world",
+          "date": "29/04/100",
+          "heure de debut": "12h:50:00",
+          "heure de fin": "15h:59:00",
+          "id_colone": "01"
+        }
+      ]
+  }
+}
