@@ -1,120 +1,83 @@
 {
-  "colonnes": [
-    {
-      "couleur": "red",
-      "title ": "hello world",
-      "tache": [
+    "etat": [
         {
-          "text": "hello world",
-          "date": "29/04/100",
-          "heure de debut": "12h:50:00",
-          "heure de fin": "15h:59:00",
-          "id_colone": "01"
+            "date_enregistrement": "2022-04-29",
+            "colonnes": [
+                {
+                    "couleur": "red",
+                    "title ": "nom de la colonee",
+                    "tache": [
+                        {
+                            "text": "hello world",
+                            "date": "2022-01-12",
+                            "heure de debut": "12h:50:00",
+                            "heure de fin": "15h:59:00"
+                        }
+                    ]
+                }
+            ],
+            "corbeille": [
+                {
+                    "text": "hello world",
+                    "date": "2022-05-27",
+                    "heure de debut": "12h:50:00",
+                    "heure de fin": "15h:59:00",
+                    "id_colone": "01"
+                }
+            ]
         },
         {
-          "text": "hello world",
-          "date": "29/04/100",
-          "heure de debut": "12h:50:00",
-          "heure de fin": "15h:59:00",
-          "id_colone": "01"
+            "colonnes": [
+                {
+                    "date_enregistrement": "2022-04-12T08:41:10.615Z"
+                },
+                {
+                    "title": "colone 1",
+                    "tache": [
+                        {
+                            "text": "AZer",
+                            "date": "2022-09-13",
+                            "heure de debut": "00:00",
+                            "heure de fin": "14:00"
+                        },
+                        {
+                            "text": "azert",
+                            "date": "2022-09-12",
+                            "heure de debut": "00:00",
+                            "heure de fin": "09:00"
+                        },
+                        {
+                            "text": "azet",
+                            "date": "2022-09-12",
+                            "heure de debut": "00:00",
+                            "heure de fin": "13:00"
+                        }
+                    ]
+                },
+                {
+                    "title": "colone 3",
+                    "tache": [
+                        {
+                            "text": "AZer",
+                            "date": "2022-09-13",
+                            "heure de debut": "00:00",
+                            "heure de fin": "14:00"
+                        },
+                        {
+                            "text": "azert",
+                            "date": "2022-09-12",
+                            "heure de debut": "00:00",
+                            "heure de fin": "09:00"
+                        },
+                        {
+                            "text": "azet",
+                            "date": "2022-09-12",
+                            "heure de debut": "00:00",
+                            "heure de fin": "13:00"
+                        }
+                    ]
+                }
+            ]
         }
-      ]
-    },
-    {
-      "couleur": "red",
-      "title ": "hello world",
-      "tache": [
-        {
-          "text": "hello world",
-          "date": "29/04/100",
-          "heure de debut": "12h:50:00",
-          "heure de fin": "15h:59:00",
-          "id_colone": "01"
-        },
-        {
-          "text": "hello world",
-          "date": "29/04/100",
-          "heure de debut": "12h:50:00",
-          "heure de fin": "15h:59:00",
-          "id_colone": "01"
-        }
-      ]
-    }
-  ],
-  "corbeille": [
-    {
-      "text": "hello world",
-      "date": "29/04/100",
-      "heure de debut": "12h:50:00",
-      "heure de fin": "15h:59:00",
-      "id_colone": "01"
-    },
-    {
-      "text": "hello world",
-      "date": "29/04/100",
-      "heure de debut": "12h:50:00",
-      "heure de fin": "15h:59:00",
-      "id_colone": "01"
-    }
-  ],
-  "etat":{
-    "colonnes": [
-        {
-          "couleur": "red",
-          "title ": "hello world",
-          "tache": [
-            {
-              "text": "hello world",
-              "date": "29/04/100",
-              "heure de debut": "12h:50:00",
-              "heure de fin": "15h:59:00",
-              "id_colone": "01"
-            },
-            {
-              "text": "hello world",
-              "date": "29/04/100",
-              "heure de debut": "12h:50:00",
-              "heure de fin": "15h:59:00",
-              "id_colone": "01"
-            }
-          ]
-        },
-        {
-          "couleur": "red",
-          "title ": "hello world",
-          "tache": [
-            {
-              "text": "hello world",
-              "date": "29/04/100",
-              "heure de debut": "12h:50:00",
-              "heure de fin": "15h:59:00",
-              "id_colone": "01"
-            },
-            {
-              "text": "hello world",
-              "date": "29/04/100",
-              "heure de debut": "12h:50:00",
-              "heure de fin": "15h:59:00",
-              "id_colone": "01"
-            }
-          ]
-        }
-      ],
-      "corbeille": [
-        {
-          "text": "hello world",
-          "date": "29/04/100",
-          "heure de debut": "12h:50:00",
-          "heure de fin": "15h:59:00",
-          "id_colone": "01"
-        },
-        {
-          "text": "hello world",
-          "date": "29/04/100",
-          "heure de debut": "12h:50:00",
-          "heure de fin": "15h:59:00",
-          "id_colone": "01"
-        }
-      ]
-  }
+    ]
 }
